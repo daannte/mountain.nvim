@@ -1,0 +1,43 @@
+:root {
+  --background-primary: #0f0f0f;
+  --bg-overlay-chat: #0f0f0f;
+  --background-secondary: #191919;
+  --background-secondary-alt: #191919;
+  --bg-overlay-2: #191919;
+  --channeltextarea-background: #292929;
+
+  --scrollbar-auto-thumb: #393939;
+  --scrollbar-auto-track: transparent;
+  --scrollbar-thin-thumb: #393939;
+  --scrollbar-thin-track: transparent;
+
+  --status-danger: #ac8a8c;
+  --text-link: #8a98ac;
+
+  --green-360: #8aac8b;
+}
+
+/* Remove nitro and sticker from text area */
+button[aria-label*="gift"],
+button[aria-label*="sticker picker"] {
+  display: none;
+}
+
+/********** Header **********/
+
+/* remove help button that no one uses */
+.toolbar__88c63 > .anchor_c8ddc0 {
+  display: none;
+}
+
+/* remove weird column in header  */
+.children__32014:after {
+  display: none;
+}
+
+/********** Sidebar **********/
+
+.wrapper_a7e7a8 .scroller__3d071,
+.titleBar__01af6 {
+  background-color: var(--background-secondary);
+}
