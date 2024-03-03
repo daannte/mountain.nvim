@@ -18,7 +18,7 @@ Install the theme with your preferred package manager, such as
 
 ```lua
 {
-  "DanteKirsman/mountain.nvim",
+  "daannte/mountain.nvim",
   lazy = false,
   priority = 999,
   config = function()
