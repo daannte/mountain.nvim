@@ -56,6 +56,9 @@ unless `setup` is explicitly called.
 
 ```lua
 require("mountain").setup({
+  -- your configuration comes here
+  -- or leave it empty to use the default settings
+    
   --- The theme comes in 1 style right now.
   --- Default: fuji
   style = "fuji",
