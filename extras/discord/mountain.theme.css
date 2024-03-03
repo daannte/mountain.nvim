@@ -1,3 +1,10 @@
+/**
+ * @name Mountain
+ * @description Dark and Calm theme for Discord
+ * @source https://github.com/daannte/mountain.nvim/extras/discord/
+ * @author dannte. 
+*/
+
 :root {
   --background-primary: #0f0f0f;
   --bg-overlay-chat: #0f0f0f;

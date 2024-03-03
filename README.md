@@ -10,6 +10,7 @@ colour scheme.
 ### 🍭 Extras
 
 - [Alacritty](https://github.com/alacritty/alacritty) ([alacritty](extras/alacritty))
+- [Discord](https://discord.com/) ([alacritty](extras/discord))
 
 ## 📦 Installation
 
