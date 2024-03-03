@@ -41,7 +41,7 @@ colorscheme mountain
 ### [Lua](https://www.lua.org)
 
 ```lua
-vim.cmd[[colorscheme tokyonight]]
+vim.cmd[[colorscheme mountain]]
 
 -- Alternatively
 require("mountain").load()
