@@ -9,6 +9,6 @@ colour scheme.
 
 ## Inspiration
 
-[Mountaineer](https://github.com/TheNiteCoder/mountaineer.vim)
-[Everforest](https://github.com/neanias/everforest-nvim)
-[Solarized Osaka](https://github.com/craftzdog/solarized-osaka.nvim)
+- [Mountaineer](https://github.com/TheNiteCoder/mountaineer.vim)
+- [Everforest](https://github.com/neanias/everforest-nvim)
+- [Solarized Osaka](https://github.com/craftzdog/solarized-osaka.nvim)
