@@ -1,7 +1,7 @@
 # 🏔️ Mountain.nvim
 
 A Lua port of the [Mountaineer](https://github.com/TheNiteCoder/mountaineer.vim)
-colour scheme.
+colour scheme with my own modifications.
 
 ## Fuji
 
@@ -68,11 +68,12 @@ require("mountain").setup({
   italics = false,
   --- Disable italic fonts for comments.
   disable_italic_comments = false,
-  --- By default, the colour of the sign column background is the same as the as normal text
+  --- By default, the sign column background is the same as the as normal text
   --- background, but you can use a grey background by setting this to `"grey"`.
   sign_column_background = "none",
   --- The contrast of line numbers, indent lines, etc. Options are `"high"` or
-  --- `"low"` (default).
+  --- `"low"`.
+  --- Default: low
   ui_contrast = "low",
   --- Dim inactive windows.
   dim_inactive = false,
